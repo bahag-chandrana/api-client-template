@@ -1,0 +1,5 @@
+pubName: {{name}}
+pubDescription: {{{description}}}
+pubLibrary: "{{name.pascalCase()}}ApiClient"
+additionalProperties:
+  serializationLibrary: freezed
