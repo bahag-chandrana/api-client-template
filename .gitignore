@@ -1,1 +1,13 @@
-.dart_tool
+# Files and directories created by pub
+.dart_tool/
+.packages
+
+
+# Local Mason Files
+.mason/
+build/
+
+# IntelliJ and Android Studio
+.idea/
+# VsCode
+.vscode/
